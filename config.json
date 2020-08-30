@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "prod_uri" : "mysql+pymysql://root:@localhost/codingthunder",
+    "gh_url" : "https://github.com/vt-dataengineer",
+    "blog_name" : "VishiWorld",
+    "tag_line" : "Everything for Everyone",
+    "gmail-user": "vishalthakurtest1712@gmail.com",
+    "gmail-password": "test1712@123",
+    "about_text" : "Hi my name is Vishal Thakur",
+    "no_of_posts" : 3,
+    "login_image" : "login.svg",
+    "admin_user" : "vishal",
+    "admin_password" : "vishal123",
+    "upload_location" :  "C:\\Users\\visha\\PycharmProjects\\flask-test\\static"
+
+  }
+
+}
